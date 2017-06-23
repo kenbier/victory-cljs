@@ -10,6 +10,9 @@
                             [cljsjs/victory "0.17.0-0"]
                             [camel-snake-kebab "0.4.0"]])
 
+(require
+ '[adzerk.bootlaces :refer :all])
+
 (task-options!
  pom {:project     project
       :version     version
