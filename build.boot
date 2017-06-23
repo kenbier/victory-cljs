@@ -1,5 +1,5 @@
 (def project 'com.kenbier/victory-cljs)
-(def version "0.1.0-SNAPSHOT")
+(def version "0.1.0")
 
 (set-env! :resource-paths #{"src"}
           :dependencies   '[[org.clojure/clojure "1.8.0" :scope "provided"]
