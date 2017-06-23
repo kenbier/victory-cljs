@@ -6,7 +6,7 @@ ClojureScript wrapper for [Victory Charts](http://formidable.com/open-source/vic
 
 Include the following in your `project.clj` or `build.boot`:
 
-`[com.kenbier/victory-cljs "0.1.0-SNAPSHOT"]`
+`[com.kenbier/victory-cljs "0.1.0"]`
 
 
 ## Usage
